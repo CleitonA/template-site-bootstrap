@@ -32,13 +32,13 @@
             <small id="emailHelp" class="form-text text-muted">Não se preocupe, não vendemos mailing lists.</small>
           </div>
           <div class="form-group">
-            <label for="senha">Password</label>
+            <label for="senha">senha</label>
             <input type="password" class="form-control" id="senha" placeholder="Insira sua senha" aria-describedby="passwordHelp">
-            <small id="passwordHelp" class="form-text text-muted">Insira uma maiúscula, uma minúscula e um número pelo menos.</small>
+            <small id="passwordHelp" class="form-text text-muted">Nunca informe sua senha pessoal para terceiros.</small>
           </div>
           <div class="form-group form-check">
             <input type="checkbox" class="form-check-input" id="aceite">
-            <label class="form-check-label" for="aceite">Estou de acordo com os termos, pode vender meus dados!</label>
+            <label class="form-check-label" for="aceite">Estou de acordo com os termos.</label>
           </div>
         </form>
         <small class="d-block w-100 text-muted">Ops! Ainda não tenho conta, quero <a href="cadastro.php" class="text-info">me cadastrar</a>.</small>
